@@ -37,7 +37,7 @@ if __name__ == "__main__":
 """
 
 def relacionamento(n, m, q):
-    
+    matriz
 
 if __name__ == "__main__":
     n = input()
