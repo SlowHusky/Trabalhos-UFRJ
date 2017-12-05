@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Trabalho da lista 1
+Victor Ribeiro Pires
+113051532
 """
 """exercicio 1
 def criar_matriz(linhas):
