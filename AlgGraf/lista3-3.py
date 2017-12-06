@@ -34,13 +34,28 @@ if __name__ == "__main__":
 
 """
    # exercício 2
-"""
+
 
 def relacionamento(n, m, q):
-    matriz
-
+    matriz = []
+    materias = []
+    contador = 0
+    for i in range(q):
+        lista = []
+        for j in range(2):
+            lista.append(input())
+        matriz.append(lista)
+    for i in range(q):
+        materias.append(i)
+    for i in range(q):
+        for j in range(len(matriz[i])):
+            if matriz[i][j] in materias:
+                contador += 1
+                materias.remove(matriz[i][j])
+    print contador
 if __name__ == "__main__":
     n = input()
     m = input()
     q = input()
-    print "go"
+    relacionamento(n,m,q)
+"""
