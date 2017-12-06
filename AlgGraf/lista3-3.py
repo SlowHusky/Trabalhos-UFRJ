@@ -59,3 +59,26 @@ if __name__ == "__main__":
     q = input()
     relacionamento(n,m,q)
 """
+
+"""
+    exercício 3:
+caso 1:numero dois
+uma forma, 1+1
+
+caso 2: numero 3
+duas formas, 1+1+1, 2+1
+
+caso 3: numero 4
+três formas: 1+1+1+1, 2+1+1, 3+1
+
+caso 4: numero 5
+seis formas: 1 + 1 + 1 + 1 +1, 2 + 1 +1 +1, 3 + 1 + 1, 4 + 1, 3 + 2, 2 + 2 + 1
+
+caso n:
+n - 1 * n -2
+"""
+
+"""
+    Exercício 4
+
+"""
